@@ -1,0 +1,26 @@
+# Binaries
+*.exe
+*.db
+*.db-journal
+main
+
+# Go
+*.o
+*.a
+*.so
+
+# Dependencies
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
